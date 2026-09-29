@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Ihsan Alvindra 👋</h1>
+
+<p align="center">
+  IT Specialist | SAP | Web Development | Data Analytics
+</p>
+
+---
+
 ## About Me
 
 I work in **IT System Application Support**, focusing on enterprise
@@ -35,7 +47,7 @@ including **Tax, Procurement, and IT Support systems**.
 
 **Tech Stack:**
 
-`Laravel` `Livewire` `Tailwind CSS` `DaisyUI` `REST API`
+`Laravel` `Livewire` `Tailwind CSS` `DaisyUI` `REST API` `React.js`
 
 My development responsibilities include backend logic, RESTful API
 development, database integration, and CI/CD deployment.
