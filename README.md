@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ihsanalvindra/ihsanalvindra/raw/refs/heads/main/assets/banner.png" width="100%" />
+  <img src="https://github.com/ihsanalvindra/ihsanalvindra/raw/refs/heads/main/assets/ban.png" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Ihsan Alvindra 👋</h1>
